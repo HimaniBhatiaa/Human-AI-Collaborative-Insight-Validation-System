@@ -166,8 +166,7 @@ streamlit run app/app.py
 
 * Deep Learning (LSTM / BERT)
 * Multi-language sentiment analysis
-* Advanced dashboard analytics
-* Full cloud deployment
+
 
 ---
 
@@ -178,8 +177,7 @@ This project demonstrates:
 ✔ Data Cleaning & EDA
 ✔ NLP & Feature Engineering
 ✔ Machine Learning Modeling
-✔ Dashboard Development
-✔ Real-world Deployment
+
 
 ---
 
