@@ -33,24 +33,7 @@ To build a system that:
 
 ✔ Classifies sentiment from text (Positive / Negative)
 ✔ Provides confidence score
-✔ Visualizes insights through an interactive dashboard
 
----
-
-## 🌐 Live Demo
-
-👉 *(Add your deployed Streamlit link here)*
-Example:
-
-```text id="live123"
-https://your-app-name.streamlit.app
-```
-
----
-
-
-
----
 
 ## 🛠 Tools & Technologies
 
