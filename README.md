@@ -10,7 +10,6 @@ Hi, I’m Himani Bhatia — a Data Scientist skilled in:
 
 Data Analysis & Visualization
 Machine Learning & NLP
-Dashboard Development
 End-to-End Project Deployment
 
 🔗 LinkedIn: https://www.linkedin.com/in/himani-bhatia18/
